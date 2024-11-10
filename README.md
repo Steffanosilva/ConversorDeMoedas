@@ -1,6 +1,6 @@
 # 💱 Conversor de Moedas
 
-Um aplicativo de console em Java para conversão de moedas. O conversor permite ao usuário escolher entre diferentes pares de moedas e converte os valores em tempo real, utilizando uma API externa para obter as taxas de câmbio atualizadas.
+Este é um aplicativo de console em Java para conversão de moedas, desenvolvido no contexto do Programa Oracle One e da Alura, voltado para a formação de novos desenvolvedores Back-End em Java e Spring. O conversor permite ao usuário selecionar entre diversos pares de moedas e realizar conversões de valores em tempo real, utilizando uma API externa para obter as taxas de câmbio mais atualizadas. Agradeço pela oportunidade de desenvolver este projeto, que enriquece meu aprendizado e habilidades na linguagem Java e nas tecnologias de back-end.
 
 ## ⚙️ Funcionalidades
 
